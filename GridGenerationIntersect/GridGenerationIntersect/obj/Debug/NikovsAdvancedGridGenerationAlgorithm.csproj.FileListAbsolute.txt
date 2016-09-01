@@ -1,0 +1,9 @@
+C:\Users\PCC\documents\visual studio 2012\Projects\GridGenerationIntersect\GridGenerationIntersect\bin\Debug\NikovsAdvancedGridGenerationAlgorithm.exe.config
+C:\Users\PCC\documents\visual studio 2012\Projects\GridGenerationIntersect\GridGenerationIntersect\bin\Debug\NikovsAdvancedGridGenerationAlgorithm.exe
+C:\Users\PCC\documents\visual studio 2012\Projects\GridGenerationIntersect\GridGenerationIntersect\bin\Debug\NikovsAdvancedGridGenerationAlgorithm.pdb
+C:\Users\PCC\documents\visual studio 2012\Projects\GridGenerationIntersect\GridGenerationIntersect\obj\Debug\NikovsAdvancedGridGenerationAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\PCC\documents\visual studio 2012\Projects\GridGenerationIntersect\GridGenerationIntersect\obj\Debug\NikovsAdvancedGridGenerationAlgorithm.MainWindow.resources
+C:\Users\PCC\documents\visual studio 2012\Projects\GridGenerationIntersect\GridGenerationIntersect\obj\Debug\NikovsAdvancedGridGenerationAlgorithm.Properties.Resources.resources
+C:\Users\PCC\documents\visual studio 2012\Projects\GridGenerationIntersect\GridGenerationIntersect\obj\Debug\NikovsAdvancedGridGenerationAlgorithm.csproj.GenerateResource.Cache
+C:\Users\PCC\documents\visual studio 2012\Projects\GridGenerationIntersect\GridGenerationIntersect\obj\Debug\NikovsAdvancedGridGenerationAlgorithm.exe
+C:\Users\PCC\documents\visual studio 2012\Projects\GridGenerationIntersect\GridGenerationIntersect\obj\Debug\NikovsAdvancedGridGenerationAlgorithm.pdb
